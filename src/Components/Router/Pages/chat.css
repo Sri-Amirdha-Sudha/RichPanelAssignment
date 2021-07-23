@@ -1,0 +1,16 @@
+.chat{
+    color: black;
+    text-align: left;
+    margin-left: 10%;
+}
+.Conversations{
+    font-size: 2rem;
+    margin-left: 0px;
+}
+.inputRounded .MuiOutlinedInput-root {
+    border-radius: 20px;
+    box-sizing: content-box;
+  }
+.Rounded .MuiButton-root {
+    border-radius: 50%;
+  }
